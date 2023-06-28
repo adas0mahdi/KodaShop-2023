@@ -8,7 +8,7 @@ export const Header = () => {
     <header>
       <Link to="/" className="logo">
         <img src={Logo} alt="logo" />
-        <span>KodeShop</span>
+        <span>KODESHOP</span>
       </Link>
       <NavLink className="navigation">
         <Link to="/" className="link">
@@ -20,7 +20,9 @@ export const Header = () => {
           Cart
         </Link>
       </NavLink>
-      <Link to="/cart" className="items">Cart: 2</Link>
+      <Link to="/cart" className="items">
+        Cart: 2
+      </Link>
     </header>
   );
 };
