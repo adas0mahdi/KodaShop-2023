@@ -64,8 +64,23 @@ git push origin feature/your-feature-name
 
 5. Open a pull request to the main repository, providing a detailed description of your changes.
 
+
+5. Open a pull request to the main repository, providing a detailed description of your changes.
+
 ## License
 
-[Specify the license under which your project is distributed. For example, you can use the MIT License.]
+This project is available under the [MIT License](LICENSE). Feel free to use it for any purpose.
+
+
+
+<br>
+<br>
+<br>
+ 
+. 
+
+![Screenshot](./secreenshot/kk1.png)
+![Screenshot](./secreenshot/kk2.png)
+
 
 
